@@ -1,0 +1,1001 @@
+student id,date,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+SM425,1998-1-3,male,group B,some college,free/reduced,none,41.0,39.0,34.0
+SF502,1998-1-3,female,group B,associate's degree,standard,completed,94.0,87.0,92.0
+SF827,1998-1-5,female,group C,associate's degree,free/reduced,completed,56.0,68.0,70.0
+SM40,1998-1-8,male,group B,associate's degree,free/reduced,none,57.0,56.0,57.0
+SF522,1998-1-9,female,group C,associate's degree,standard,none,91.0,86.0,84.0
+SM224,1998-1-12,male,group D,some high school,standard,none,86.0,80.0,75.0
+SF80,1998-1-12,female,group E,master's degree,standard,none,62.0,68.0,68.0
+SM436,1998-1-14,male,group C,some college,free/reduced,completed,50.0,48.0,53.0
+SM935,1998-1-16,male,group C,associate's degree,standard,completed,98.0,87.0,90.0
+SM333,1998-1-23,male,group E,associate's degree,standard,completed,62.0,56.0,53.0
+SM487,1998-1-23,male,group D,some college,free/reduced,none,61.0,47.0,56.0
+SF531,1998-1-24,female,group C,associate's degree,standard,completed,68.0,67.0,73.0
+SF727,1998-1-29,female,group E,associate's degree,standard,completed,65.0,75.0,77.0
+SM901,1998-1-29,male,group D,master's degree,standard,none,85.0,84.0,89.0
+SM461,1998-1-31,male,group C,bachelor's degree,free/reduced,none,53.0,58.0,55.0
+SM205,1998-1-31,male,group C,some college,standard,none,59.0,41.0,42.0
+SF896,1998-2-6,female,group E,some high school,free/reduced,none,32.0,34.0,38.0
+SM236,1998-2-6,male,group D,associate's degree,standard,none,80.0,75.0,77.0
+SM212,1998-2-11,male,group C,some college,free/reduced,none,35.0,28.0,59.5
+SF609,1998-2-16,female,group E,some college,standard,none,61.0,64.0,62.0
+SM525,1998-2-19,male,group C,high school,standard,completed,53.0,52.0,49.0
+SM480,1998-2-27,male,group E,associate's degree,standard,none,76.0,71.0,67.0
+SM665,1998-3-9,male,group D,associate's degree,standard,none,80.0,63.0,63.0
+SF469,1998-3-11,female,group A,high school,free/reduced,completed,77.0,88.0,85.0
+SM196,1998-3-13,male,group D,associate's degree,standard,none,61.0,55.0,52.0
+SM96,1998-3-19,male,group C,associate's degree,free/reduced,completed,78.0,81.0,82.0
+SM235,1998-3-19,male,group C,bachelor's degree,standard,completed,83.0,82.0,84.0
+SF538,1998-3-25,female,group D,high school,standard,none,51.0,66.0,62.0
+SM751,1998-3-26,male,group D,some high school,standard,completed,71.0,69.0,68.0
+SM830,1998-4-3,male,group B,some high school,standard,none,68.0,54.0,53.0
+SF261,1998-4-9,female,group C,some high school,free/reduced,completed,64.0,79.0,77.0
+SF761,1998-4-13,female,group C,high school,free/reduced,none,53.0,72.0,64.0
+SM641,1998-4-13,male,group D,high school,standard,none,41.0,52.0,51.0
+SF485,1998-4-15,female,group B,associate's degree,standard,none,49.0,52.0,54.0
+SF315,1998-4-16,female,group C,bachelor's degree,standard,completed,59.0,64.0,75.0
+SF374,1998-4-22,female,group D,some college,standard,completed,82.0,97.0,96.0
+SM503,1998-4-23,male,group C,some college,free/reduced,none,63.0,61.0,54.0
+SM569,1998-4-24,male,group B,high school,free/reduced,none,63.0,48.0,47.0
+SM447,1998-4-26,male,group D,some college,free/reduced,none,69.0,66.0,60.0
+SF640,1998-4-27,female,group D,associate's degree,standard,none,76.0,74.0,73.0
+SM690,1998-4-29,male,group E,some college,free/reduced,none,93.0,90.0,83.0
+SM770,1998-5-1,male,group A,some college,free/reduced,none,58.0,60.0,57.0
+SM36,1998-5-3,male,group E,associate's degree,standard,completed,81.0,81.0,79.0
+SM164,1998-5-7,male,group C,high school,standard,none,52.0,53.0,49.0
+SF856,1998-5-12,female,group B,bachelor's degree,standard,none,97.0,97.0,96.0
+SF353,1998-5-18,female,group C,some college,standard,completed,63.0,78.0,80.0
+SM624,1998-5-19,male,group A,some college,standard,completed,100.0,96.0,86.0
+SF179,1998-5-19,female,group B,master's degree,free/reduced,completed,52.0,70.0,62.0
+SM978,1998-5-22,male,group C,associate's degree,standard,none,62.0,65.0,58.0
+SF879,1998-5-22,female,group D,some high school,standard,none,59.0,72.0,80.0
+SF375,1998-6-4,female,group D,bachelor's degree,standard,none,59.0,70.0,73.0
+SF364,1998-6-5,female,group D,some high school,free/reduced,none,27.0,34.0,32.0
+SF202,1998-6-14,female,group D,some college,free/reduced,none,65.0,81.0,77.0
+SF514,1998-6-15,female,group B,some high school,standard,completed,54.0,61.0,62.0
+SF778,1998-6-18,female,group C,some college,free/reduced,none,35.0,44.0,43.0
+SF252,1998-6-18,female,group D,some college,free/reduced,none,71.0,83.0,83.0
+SF898,1998-6-25,female,group B,some high school,free/reduced,completed,63.0,78.0,79.0
+SM726,1998-6-25,male,group E,some college,standard,completed,81.0,74.0,71.0
+SM680,1998-6-25,male,group D,some college,free/reduced,none,63.0,61.0,60.0
+SM465,1998-6-27,male,group A,bachelor's degree,standard,completed,75.0,58.0,62.0
+SM318,1998-7-3,male,group C,associate's degree,standard,none,83.0,72.0,78.0
+SF594,1998-7-3,female,group E,high school,standard,none,74.0,76.0,73.0
+SM855,1998-7-4,male,group C,some high school,standard,none,62.0,64.0,55.0
+SF278,1998-7-7,female,group E,high school,standard,completed,59.0,63.0,75.0
+SM865,1998-7-8,male,group C,associate's degree,standard,none,97.0,93.0,91.0
+SF990,1998-7-9,female,group D,some college,free/reduced,completed,67.0,86.0,83.0
+SF805,1998-7-9,female,group C,some college,standard,none,73.0,76.0,78.0
+SF86,1998-7-12,female,group C,some college,standard,none,73.0,80.0,82.0
+SF184,1998-7-18,female,group D,associate's degree,standard,none,65.0,69.0,70.0
+SF411,1998-7-22,female,group D,master's degree,standard,completed,70.0,71.0,74.0
+SF107,1998-7-28,female,group D,master's degree,standard,none,87.0,100.0,100.0
+SF498,1998-7-30,female,group D,some college,free/reduced,completed,59.0,78.0,76.0
+SM291,1998-7-30,male,group C,associate's degree,standard,none,76.0,70.0,68.0
+SM483,1998-8-4,male,group C,some college,free/reduced,none,68.0,68.0,61.0
+SF180,1998-8-4,female,group D,some high school,standard,completed,97.0,100.0,100.0
+SM133,1998-8-6,male,group E,some college,free/reduced,completed,87.0,74.0,70.0
+SF118,1998-8-11,female,group D,bachelor's degree,standard,none,78.0,82.0,79.0
+SF305,1998-8-12,female,group C,associate's degree,standard,completed,74.0,75.0,83.0
+SF655,1998-8-13,female,group B,some high school,standard,none,73.0,79.0,79.0
+SF930,1998-8-14,female,group C,some high school,free/reduced,none,48.0,56.0,51.0
+SM63,1998-8-15,male,group A,associate's degree,free/reduced,none,62.0,61.0,55.0
+SM161,1998-8-15,male,group B,associate's degree,free/reduced,completed,82.0,78.0,74.0
+SM552,1998-8-22,male,group B,bachelor's degree,free/reduced,completed,87.0,90.0,88.0
+SM622,1998-8-23,male,group B,bachelor's degree,free/reduced,none,62.0,63.0,56.0
+SF463,1998-8-23,female,group E,some college,standard,none,71.0,70.0,76.0
+SF969,1998-8-24,female,group E,associate's degree,standard,none,68.0,76.0,67.0
+SF656,1998-8-25,female,group B,some college,standard,none,62.0,67.0,67.0
+SM484,1998-8-27,male,group A,high school,standard,none,59.0,52.0,46.0
+SF354,1998-8-28,female,group C,associate's degree,standard,none,46.0,58.0,57.0
+SF861,1998-8-31,female,group C,associate's degree,standard,none,53.0,62.0,53.0
+SM809,1998-9-2,male,group C,high school,standard,none,90.0,75.0,69.0
+SM481,1998-9-2,male,group B,high school,standard,completed,73.0,71.0,68.0
+SM198,1998-9-6,male,group E,high school,free/reduced,none,55.0,69.15606361829026,51.0
+SM352,1998-9-8,male,group E,some college,standard,none,66.0,57.0,52.0
+SF457,1998-9-10,female,group D,bachelor's degree,standard,none,79.0,89.0,89.0
+SM400,1998-9-14,male,group D,some high school,standard,none,60.0,59.0,54.0
+SM921,1998-9-14,male,group D,high school,free/reduced,none,69.0,70.0,67.0
+SF980,1998-9-16,female,group C,associate's degree,standard,none,91.0,95.0,94.0
+SM62,1998-9-19,male,group A,some high school,free/reduced,none,39.0,80.0,34.0
+SF33,1998-9-24,female,group E,master's degree,free/reduced,none,56.0,72.0,65.0
+SF586,1998-9-29,female,group C,associate's degree,standard,none,65.0,76.0,76.0
+SF153,1998-10-4,female,group B,associate's degree,standard,completed,59.0,70.0,66.0
+SF704,1998-10-9,female,group D,some college,standard,none,63.0,64.0,67.0
+SF520,1998-10-13,female,group B,high school,free/reduced,completed,67.0,78.0,79.0
+SM301,1998-10-17,male,group A,some college,free/reduced,completed,81.0,78.0,100.0
+SM720,1998-10-20,male,group E,associate's degree,free/reduced,completed,91.0,73.0,80.0
+SF587,1998-10-21,female,group A,high school,standard,none,55.0,73.0,73.0
+SM54,1998-10-22,male,group D,high school,standard,none,88.0,78.0,75.0
+SF311,1998-10-23,female,group B,associate's degree,standard,none,73.0,76.0,80.0
+SF326,1998-10-23,female,group C,some college,standard,none,82.0,90.0,94.0
+SM572,1998-10-25,male,group A,bachelor's degree,standard,none,91.0,96.0,92.0
+SM597,1998-10-28,male,group B,high school,free/reduced,none,30.0,24.0,15.0
+SM728,1998-10-31,male,group E,some high school,standard,completed,68.0,51.0,57.0
+SF691,1998-11-4,female,group C,associate's degree,standard,none,49.0,53.0,53.0
+SM823,1998-11-4,male,group E,some college,free/reduced,completed,49.0,52.0,51.0
+SM860,1998-11-10,male,group C,associate's degree,free/reduced,none,87.0,73.0,72.0
+SM554,1998-11-11,male,group D,some college,free/reduced,none,77.0,62.0,64.0
+SM565,1998-11-14,male,group B,bachelor's degree,free/reduced,none,48.0,51.0,46.0
+SF918,1998-11-16,female,group C,high school,standard,none,44.0,61.0,52.0
+SF615,1998-11-18,female,group A,associate's degree,standard,none,82.0,93.0,93.0
+SM509,1998-11-24,male,group C,master's degree,standard,none,79.0,78.0,77.0
+SM152,1998-11-28,male,group A,bachelor's degree,standard,none,77.0,67.0,68.0
+SF243,1998-11-28,female,group D,high school,standard,none,56.0,52.0,55.0
+SM167,1998-11-30,male,group C,high school,free/reduced,completed,53.0,51.0,51.0
+SM972,1998-12-4,male,group C,some high school,standard,completed,78.0,72.0,69.0
+SF378,1998-12-5,female,group D,master's degree,free/reduced,completed,85.0,95.0,100.0
+SM468,1998-12-7,male,group A,high school,free/reduced,completed,72.0,67.0,65.0
+SM366,1998-12-16,male,group A,bachelor's degree,free/reduced,completed,49.0,58.0,60.0
+SF652,1998-12-17,female,group A,high school,standard,completed,68.0,80.0,76.0
+SM12,1998-12-20,male,group D,associate's degree,standard,none,40.0,52.0,43.0
+SM431,1998-12-22,male,group C,associate's degree,free/reduced,none,64.0,66.0,59.0
+SM83,1998-12-24,male,group A,some college,free/reduced,completed,50.0,47.0,54.0
+SM102,1998-12-25,male,group D,bachelor's degree,standard,completed,68.0,74.0,74.0
+SF832,1999-1-1,female,group C,bachelor's degree,free/reduced,completed,74.0,86.0,89.0
+SF495,1999-1-5,female,group B,high school,standard,none,54.0,64.0,68.0
+SM725,1999-1-10,male,group B,some college,standard,none,47.0,43.0,41.0
+SF199,1999-1-10,female,group B,some college,free/reduced,none,45.0,53.0,55.0
+SF191,1999-1-10,female,group E,associate's degree,standard,none,66.0,65.0,69.0
+SF529,1999-1-18,female,group D,bachelor's degree,free/reduced,none,29.0,41.0,47.0
+SM814,1999-1-18,male,group E,some high school,standard,completed,87.0,84.0,76.0
+SM131,1999-1-21,male,group D,master's degree,standard,none,89.0,84.0,82.0
+SM413,1999-1-23,male,group D,associate's degree,standard,none,71.0,66.0,60.0
+SM932,1999-1-23,male,group D,some college,free/reduced,none,62.0,57.0,62.0
+SF165,1999-1-25,female,group E,master's degree,standard,none,81.0,92.0,91.0
+SM737,1999-1-30,male,group C,associate's degree,standard,none,92.0,79.0,84.0
+SM868,1999-1-31,male,group B,associate's degree,standard,none,61.0,42.0,41.0
+SM632,1999-2-6,male,group B,high school,standard,none,79.0,60.0,65.0
+SF647,1999-2-7,female,group D,associate's degree,standard,none,59.0,70.0,65.0
+SM618,1999-2-7,male,group D,bachelor's degree,standard,none,88.0,78.0,83.0
+SF178,1999-2-9,female,group C,associate's degree,standard,completed,71.0,77.0,80.0
+SF692,1999-2-15,female,group E,associate's degree,free/reduced,none,73.0,76.0,78.0
+SM929,1999-2-16,male,group E,associate's degree,free/reduced,completed,46.0,43.0,44.0
+SF781,1999-2-25,female,group D,associate's degree,free/reduced,none,46.0,56.0,57.0
+SM428,1999-3-3,male,group C,some high school,free/reduced,none,69.0,71.0,65.0
+SM611,1999-3-4,male,group D,some college,free/reduced,completed,69.0,60.0,63.0
+SF81,1999-3-6,female,group B,associate's degree,standard,none,47.0,49.0,50.0
+SF256,1999-3-10,female,group E,some college,standard,none,62.0,73.0,70.0
+SM933,1999-3-16,male,group D,associate's degree,free/reduced,completed,61.0,71.0,73.0
+SF387,1999-3-17,female,group E,bachelor's degree,standard,none,64.0,73.0,70.0
+SF536,1999-3-19,female,group C,bachelor's degree,free/reduced,completed,66.0,83.0,83.0
+SF57,1999-3-25,female,group E,associate's degree,standard,completed,82.0,85.0,86.0
+SF769,1999-3-25,female,group D,some high school,standard,none,68.0,71.0,75.0
+SF599,1999-3-26,female,group D,high school,standard,none,69.0,77.0,73.0
+SF73,1999-4-5,female,group A,associate's degree,free/reduced,none,41.0,51.0,48.0
+SM429,1999-4-9,male,group A,some high school,free/reduced,none,65.0,59.0,53.0
+SM991,1999-4-9,male,group E,high school,free/reduced,completed,86.0,81.0,75.0
+SM302,1999-4-13,male,group D,some high school,free/reduced,none,56.0,54.0,52.0
+SF675,1999-4-14,female,group D,high school,standard,completed,69.0,77.0,78.0
+SM402,1999-4-16,male,group A,some college,standard,none,53.0,43.0,43.0
+SF264,1999-4-16,female,group E,high school,standard,none,99.0,93.0,90.0
+SF975,1999-4-19,female,group A,some college,standard,none,54.0,63.0,67.0
+SF695,1999-4-19,female,group C,some high school,standard,none,49.0,63.0,56.0
+SM722,1999-4-20,male,group D,some high school,free/reduced,completed,55.0,59.0,59.0
+SF583,1999-4-21,female,group D,bachelor's degree,free/reduced,none,63.0,73.0,78.0
+SF862,1999-4-22,female,group E,master's degree,free/reduced,none,81.0,86.0,87.0
+SM433,1999-4-26,male,group C,high school,standard,none,61.0,56.0,55.0
+SF474,1999-5-1,female,group D,some high school,standard,none,59.0,67.0,61.0
+SM570,1999-5-1,male,group D,bachelor's degree,free/reduced,none,68.0,68.0,67.0
+SM906,1999-5-5,male,group D,some college,standard,none,88.0,77.0,77.0
+SF68,1999-5-5,female,group C,some college,standard,none,60.0,72.0,74.0
+SF970,1999-5-6,female,group B,bachelor's degree,standard,none,75.0,84.0,80.0
+SM308,1999-5-8,male,group C,some high school,standard,none,51.0,52.0,44.0
+SM683,1999-5-11,male,group B,high school,standard,none,62.0,55.0,54.0
+SM140,1999-5-14,male,group D,some college,standard,completed,71.0,61.0,69.0
+SM207,1999-5-15,male,group E,bachelor's degree,standard,none,82.0,62.0,62.0
+SM997,1999-5-20,male,group C,high school,free/reduced,none,62.0,55.0,55.0
+SM943,1999-5-23,male,group C,high school,standard,none,81.0,66.0,64.0
+SF966,1999-5-29,female,group D,some college,standard,none,62.0,70.0,72.0
+SF314,1999-6-9,female,group C,associate's degree,free/reduced,completed,68.0,67.0,69.0
+SF596,1999-6-10,female,group C,bachelor's degree,standard,completed,56.0,79.0,72.0
+SF996,1999-6-12,female,group E,master's degree,standard,completed,88.0,99.0,95.0
+SM954,1999-6-17,male,group C,high school,standard,completed,58.0,52.0,54.0
+SF841,1999-6-18,female,group D,high school,free/reduced,none,39.0,52.0,46.0
+SF754,1999-6-18,female,group C,some high school,standard,completed,77.0,90.0,85.0
+SM418,1999-6-19,male,group C,associate's degree,standard,none,74.0,73.0,67.0
+SM833,1999-6-20,male,group A,bachelor's degree,standard,none,64.0,60.0,58.0
+SM606,1999-6-20,male,group C,some high school,standard,none,75.0,72.0,62.0
+SF43,1999-6-26,female,group B,associate's degree,standard,none,53.0,58.0,65.0
+SM911,1999-6-27,male,group D,bachelor's degree,free/reduced,none,50.0,42.0,48.0
+SF322,1999-6-28,female,group E,high school,standard,none,75.0,86.0,79.0
+SF166,1999-6-28,female,group C,bachelor's degree,standard,completed,96.0,100.0,100.0
+SF773,1999-7-1,female,group B,some high school,free/reduced,completed,52.0,67.0,72.0
+SF505,1999-7-2,female,group D,master's degree,free/reduced,none,40.0,59.0,54.0
+SF800,1999-7-6,female,group C,associate's degree,standard,none,52.0,55.0,57.0
+SM27,1999-7-6,male,group B,some college,standard,none,69.0,54.0,55.0
+SM390,1999-7-8,male,group D,master's degree,standard,none,73.0,70.0,75.0
+SF65,1999-7-12,female,group D,some high school,standard,none,59.0,58.0,59.0
+SM122,1999-7-17,male,group B,associate's degree,standard,completed,91.0,89.0,92.0
+SF952,1999-7-19,female,group D,some college,standard,completed,75.0,77.0,83.0
+SM417,1999-7-26,male,group C,bachelor's degree,standard,completed,71.0,74.0,68.0
+SM672,1999-7-27,male,group D,associate's degree,free/reduced,none,52.0,57.0,50.0
+SM620,1999-7-31,male,group C,associate's degree,free/reduced,completed,65.0,73.0,68.0
+SF914,1999-8-1,female,group C,bachelor's degree,free/reduced,completed,47.0,62.0,66.0
+SM382,1999-8-1,male,group C,associate's degree,standard,completed,87.0,100.0,95.0
+SM116,1999-8-2,male,group C,high school,standard,none,84.0,77.0,74.0
+SF227,1999-8-6,female,group C,some college,standard,none,72.0,72.0,71.0
+SM540,1999-8-9,male,group A,associate's degree,standard,completed,97.0,92.0,86.0
+SM734,1999-8-17,male,group D,some high school,standard,none,55.0,47.0,44.0
+SF385,1999-8-19,female,group A,some high school,free/reduced,none,38.0,43.0,43.0
+SM627,1999-8-24,male,group B,associate's degree,free/reduced,completed,69.0,70.0,63.0
+SM148,1999-8-24,male,group C,associate's degree,free/reduced,none,73.0,68.0,66.0
+SM688,1999-8-25,male,group D,associate's degree,free/reduced,none,77.0,78.0,73.0
+SM931,1999-8-28,male,group C,some college,free/reduced,completed,67.0,74.0,70.0
+SM359,1999-8-30,male,group D,some college,free/reduced,none,59.0,62.0,61.0
+SF614,1999-8-31,female,group C,associate's degree,standard,none,65.0,77.0,74.0
+SF49,1999-9-1,female,group D,associate's degree,free/reduced,completed,57.0,74.0,76.0
+SM281,1999-9-3,male,group D,high school,standard,none,53.0,52.0,60.07692307692308
+SF885,1999-9-4,female,group E,associate's degree,standard,none,51.0,51.0,54.0
+SF608,1999-9-4,female,group C,master's degree,free/reduced,none,40.0,58.0,54.0
+SM5,1999-9-6,male,group C,some college,standard,none,76.0,78.0,75.0
+SF568,1999-9-6,female,group D,master's degree,free/reduced,completed,61.0,71.0,78.0
+SM613,1999-9-13,male,group C,bachelor's degree,standard,completed,94.0,90.0,91.0
+SF149,1999-9-15,female,group D,bachelor's degree,standard,completed,68.0,75.0,81.0
+SM380,1999-9-15,male,group A,bachelor's degree,standard,none,66.0,64.0,62.0
+SF564,1999-9-19,female,group D,some college,free/reduced,completed,63.0,80.0,80.0
+SM154,1999-9-20,male,group D,bachelor's degree,standard,none,54.0,49.0,47.0
+SF948,1999-9-23,female,group D,some college,free/reduced,none,49.0,58.0,60.0
+SM258,1999-10-1,male,group C,associate's degree,standard,completed,78.0,77.0,77.0
+SF916,1999-10-1,female,group E,some college,standard,none,68.0,70.0,66.0
+SM300,1999-10-10,male,group D,associate's degree,free/reduced,none,90.0,87.0,75.0
+SM661,1999-10-12,male,group C,some college,free/reduced,none,74.0,77.0,73.0
+SF209,1999-10-12,female,group B,some college,free/reduced,none,74.0,81.0,76.0
+SM337,1999-10-13,male,group D,some high school,standard,completed,76.0,70.0,69.0
+SM265,1999-10-20,male,group D,high school,standard,none,76.0,73.0,68.0
+SF506,1999-10-22,female,group B,some high school,standard,none,82.0,82.0,80.0
+SM316,1999-10-24,male,group C,high school,standard,none,71.0,66.0,65.0
+SF984,1999-10-24,female,group A,some college,standard,completed,78.0,87.0,91.0
+SM801,1999-10-25,male,group C,some high school,standard,completed,67.0,73.0,68.0
+SM435,1999-10-28,male,group C,some high school,standard,none,73.0,66.0,66.0
+SF45,1999-10-30,female,group E,associate's degree,free/reduced,none,50.0,56.0,54.0
+SM262,1999-10-31,male,group C,some college,standard,completed,79.0,79.0,78.0
+SF762,1999-11-3,female,group D,some high school,standard,none,48.0,58.0,54.0
+SF880,1999-11-12,female,group D,associate's degree,standard,none,64.0,76.0,74.0
+SF20,1999-11-14,female,group C,associate's degree,free/reduced,none,54.0,58.0,61.0
+SF452,1999-11-14,female,group E,some college,standard,none,100.0,92.0,97.0
+SM960,1999-11-16,male,group C,high school,standard,none,75.0,81.0,71.0
+SF47,1999-11-17,female,group A,associate's degree,standard,completed,55.0,65.0,62.0
+SM771,1999-11-20,male,group B,high school,standard,none,52.0,48.0,49.0
+SM59,1999-11-20,male,group D,some college,standard,completed,58.0,59.0,58.0
+SM500,1999-11-21,male,group E,some college,standard,none,76.0,71.0,72.0
+SM669,1999-11-22,male,group C,some college,standard,none,73.0,74.0,61.0
+SF650,1999-11-23,female,group D,some college,standard,completed,69.0,79.0,81.0
+SM874,1999-11-27,male,group E,associate's degree,free/reduced,none,90.0,90.0,82.0
+SM132,1999-11-28,male,group C,some high school,free/reduced,completed,53.0,37.0,40.0
+SF225,1999-11-29,female,group B,associate's degree,standard,completed,52.0,66.0,73.0
+SF89,1999-11-30,female,group A,some college,standard,none,58.0,70.0,67.0
+SM420,1999-12-2,male,group E,high school,free/reduced,completed,57.0,56.0,54.0
+SF795,1999-12-4,female,group B,high school,standard,none,42.0,52.0,51.0
+SF30,1999-12-6,female,group D,master's degree,standard,none,62.0,70.0,75.0
+SM150,1999-12-13,male,group E,associate's degree,free/reduced,completed,100.0,100.0,93.0
+SM216,1999-12-14,male,group B,some high school,standard,completed,84.0,83.0,75.0
+SF694,1999-12-17,female,group D,associate's degree,standard,none,77.0,77.0,73.0
+SF100,1999-12-20,female,group D,bachelor's degree,standard,none,65.0,67.0,62.0
+SF294,1999-12-20,female,group E,bachelor's degree,standard,none,65.0,73.0,75.0
+SM280,1999-12-21,male,group B,bachelor's degree,free/reduced,none,73.0,56.0,57.0
+SF971,1999-12-23,female,group D,bachelor's degree,standard,none,89.0,100.0,100.0
+SM26,1999-12-24,male,group A,master's degree,free/reduced,none,73.0,74.0,72.0
+SM631,1999-12-26,male,group D,some college,standard,none,67.0,64.0,70.0
+SF584,1999-12-27,female,group D,associate's degree,standard,completed,73.0,75.0,80.0
+SM266,1999-12-29,male,group D,some high school,free/reduced,none,59.0,42.0,41.0
+SM35,1999-12-30,male,group E,some college,standard,none,97.0,87.0,82.0
+SM203,1999-12-31,male,group C,associate's degree,standard,none,69.0,77.0,69.0
+SF284,2000-1-1,female,group D,some college,free/reduced,completed,70.0,78.0,78.0
+SF279,2000-1-3,female,group C,some high school,free/reduced,none,65.0,86.0,80.0
+SM486,2000-1-3,male,group C,high school,standard,none,70.0,74.0,71.0
+SF900,2000-1-10,female,group D,some high school,standard,completed,65.0,78.0,82.0
+SF964,2000-1-15,female,group C,some high school,free/reduced,completed,65.0,76.0,75.0
+SM527,2000-1-20,male,group C,some high school,free/reduced,completed,56.0,61.0,60.0
+SF853,2000-1-21,female,group E,some college,standard,none,87.0,85.0,93.0
+SF377,2000-1-22,female,group D,some high school,standard,none,80.0,90.0,82.0
+SM407,2000-1-24,male,group B,associate's degree,standard,completed,65.0,65.0,63.0
+SF230,2000-1-28,female,group C,some college,standard,completed,88.0,95.0,94.0
+SM706,2000-1-28,male,group A,bachelor's degree,free/reduced,none,62.0,72.0,65.0
+SM329,2000-1-29,male,group C,associate's degree,standard,completed,82.0,75.0,77.0
+SM172,2000-1-31,male,group E,some high school,standard,none,94.0,88.0,78.0
+SF121,2000-2-1,female,group C,bachelor's degree,standard,completed,79.0,92.0,89.0
+SM925,2000-2-2,male,group D,high school,free/reduced,none,74.0,70.0,69.0
+SF482,2000-2-9,female,group D,associate's degree,free/reduced,none,52.0,59.0,56.0
+SM747,2000-2-14,male,group D,high school,standard,none,69.0,75.0,71.0
+SF998,2000-2-20,female,group C,high school,free/reduced,completed,59.0,71.0,65.0
+SM197,2000-2-20,male,group C,some high school,free/reduced,completed,59.0,69.0,65.0
+SM859,2000-2-27,male,group B,high school,standard,completed,52.0,49.0,46.0
+SM135,2000-2-28,male,group D,bachelor's degree,free/reduced,completed,74.0,79.0,75.0
+SM560,2000-3-2,male,group D,some high school,standard,none,73.0,66.0,62.0
+SM362,2000-3-2,male,group B,some high school,standard,completed,85.0,84.0,78.0
+SM440,2000-3-5,male,group D,some high school,standard,completed,89.0,88.0,82.0
+SF139,2000-3-7,female,group C,associate's degree,standard,none,59.0,66.0,67.0
+SF501,2000-3-10,female,group D,master's degree,standard,none,74.0,79.0,82.0
+SM548,2000-3-19,male,group C,high school,standard,completed,72.0,67.0,64.0
+SF363,2000-3-21,female,group C,some college,standard,none,52.0,58.0,58.0
+SF119,2000-3-23,female,group D,some high school,standard,none,51.0,63.0,61.0
+SF829,2000-3-29,female,group D,some high school,free/reduced,completed,69.0,86.0,81.0
+SF637,2000-4-2,female,group B,high school,free/reduced,completed,67.0,80.0,81.0
+SM854,2000-4-9,male,group E,some high school,standard,none,82.0,67.0,61.0
+SF115,2000-4-11,female,group E,bachelor's degree,standard,completed,99.0,100.0,100.0
+SM794,2000-4-13,male,group E,some high school,standard,completed,89.0,84.0,77.0
+SF310,2000-4-14,female,group D,high school,free/reduced,none,49.0,57.0,52.0
+SF729,2000-4-14,female,group D,high school,free/reduced,none,73.0,92.0,84.0
+SM75,2000-4-15,male,group C,some high school,standard,none,49.0,49.0,41.0
+SF473,2000-4-15,female,group C,associate's degree,standard,completed,68.0,86.0,84.0
+SM951,2000-4-21,male,group E,high school,standard,none,94.0,73.0,71.0
+SF677,2000-4-23,female,group E,some college,standard,completed,73.0,78.0,76.0
+SM241,2000-4-24,male,group D,high school,free/reduced,completed,73.0,68.0,66.0
+SM897,2000-4-29,male,group B,high school,free/reduced,none,36.0,29.0,27.0
+SF200,2000-4-30,female,group B,bachelor's degree,free/reduced,none,78.0,79.0,76.0
+SM524,2000-5-1,male,group C,master's degree,free/reduced,none,54.0,59.0,50.0
+SM101,2000-5-1,male,group B,some college,standard,none,60.916666666666664,67.0,67.0
+SF999,2000-5-8,female,group D,some college,standard,completed,68.0,78.0,77.0
+SF852,2000-5-8,female,group A,high school,standard,none,61.0,68.0,63.0
+SM478,2000-5-10,male,group D,associate's degree,standard,none,80.0,68.0,72.0
+SF987,2000-5-24,female,group C,associate's degree,standard,none,40.0,59.0,51.0
+SM619,2000-5-26,male,group D,master's degree,standard,none,95.0,81.0,84.0
+SF777,2000-5-31,female,group B,high school,standard,none,66.0,72.0,70.0
+SM700,2000-5-31,male,group C,high school,free/reduced,none,66.0,66.0,59.0
+SF579,2000-6-1,female,group B,some college,free/reduced,completed,48.0,56.0,58.0
+SM4,2000-6-3,male,group A,associate's degree,free/reduced,none,47.0,57.0,44.0
+SM136,2000-6-5,male,group C,bachelor's degree,standard,none,58.0,55.0,48.0
+SM851,2000-6-6,male,group C,master's degree,standard,none,71.0,67.0,67.0
+SM571,2000-6-7,male,group B,some college,standard,completed,71.0,75.0,70.0
+SM730,2000-6-10,male,group C,some college,standard,none,53.0,39.0,37.0
+SF974,2000-6-10,female,group D,some college,free/reduced,none,49.0,65.0,61.0
+SM282,2000-6-11,male,group D,high school,standard,none,0.0,48.0,46.0
+SM46,2000-6-12,male,group B,associate's degree,standard,none,65.0,54.0,57.0
+SM319,2000-6-13,male,group B,bachelor's degree,standard,none,63.0,71.0,69.0
+SF808,2000-6-14,female,group E,high school,free/reduced,none,41.0,45.0,40.0
+SF696,2000-6-17,female,group D,some college,free/reduced,none,79.0,89.0,86.0
+SF55,2000-6-17,female,group C,some high school,free/reduced,completed,71.0,84.0,87.0
+SF710,2000-6-19,female,group D,associate's degree,free/reduced,completed,42.0,61.0,58.0
+SF612,2000-6-21,female,group C,some college,standard,none,58.0,59.0,66.0
+SF791,2000-6-22,female,group B,high school,standard,none,48.0,62.0,60.0
+SM307,2000-6-26,male,group E,some college,standard,completed,99.0,87.0,81.0
+SM228,2000-6-30,male,group D,high school,standard,none,57.0,50.0,54.0
+SM546,2000-7-2,male,group E,some high school,free/reduced,completed,78.0,83.0,80.0
+SF922,2000-7-7,female,group C,high school,free/reduced,none,35.0,53.0,46.0
+SM297,2000-7-7,male,group A,some high school,standard,completed,46.0,41.0,43.0
+SF686,2000-7-8,female,group E,master's degree,standard,completed,94.0,99.0,100.0
+SF648,2000-7-8,female,group E,high school,free/reduced,none,64.0,62.0,68.0
+SF908,2000-7-11,female,group D,some college,standard,completed,79.0,84.0,91.0
+SM775,2000-7-12,male,group B,some college,standard,none,66.0,65.0,60.0
+SF397,2000-7-23,female,group B,high school,free/reduced,none,50.0,67.0,63.0
+SF733,2000-7-29,female,group C,some college,standard,completed,87.0,89.0,94.0
+SM129,2000-8-1,male,group D,master's degree,standard,none,82.0,82.0,74.0
+SM670,2000-8-7,male,group D,associate's degree,standard,completed,81.0,72.0,77.0
+SM877,2000-8-9,male,group D,some college,standard,none,81.0,82.0,84.0
+SF893,2000-8-11,female,group A,master's degree,free/reduced,none,50.0,67.0,73.0
+SF109,2000-8-11,female,group B,associate's degree,free/reduced,none,52.0,76.0,70.0
+SF6,2000-8-14,female,group B,associate's degree,standard,none,71.0,83.0,78.0
+SM812,2000-8-16,male,group A,high school,free/reduced,none,45.0,47.0,49.0
+SM988,2000-8-18,male,group E,some high school,standard,completed,81.0,75.0,76.0
+SF343,2000-8-22,female,group B,high school,standard,completed,69.0,76.0,74.0
+SM508,2000-8-23,male,group B,bachelor's degree,free/reduced,none,55.0,59.0,54.0
+SM450,2000-8-23,male,group B,associate's degree,standard,none,81.0,73.0,72.0
+SM187,2000-8-23,male,group E,high school,standard,none,80.0,76.0,65.0
+SF585,2000-8-25,female,group D,some college,standard,none,69.0,77.0,77.0
+SM711,2000-9-3,male,group C,some college,standard,completed,93.0,84.0,90.0
+SM299,2000-9-10,male,group C,high school,free/reduced,completed,40.0,46.0,50.0
+SF176,2000-9-18,female,group C,master's degree,standard,completed,81.0,91.0,87.0
+SF42,2000-9-22,female,group C,associate's degree,standard,none,58.0,73.0,68.0
+SM194,2000-9-22,male,group D,some college,standard,completed,77.0,62.0,62.0
+SF88,2000-9-25,female,group D,associate's degree,standard,none,71.0,71.0,74.0
+SM629,2000-9-30,male,group D,some college,free/reduced,none,49.0,57.0,46.0
+SM229,2000-9-30,male,group A,some high school,free/reduced,none,68.0,72.0,64.0
+SM239,2000-10-2,male,group B,some college,standard,none,54.0,52.0,51.0
+SM753,2000-10-3,male,group C,master's degree,free/reduced,completed,79.0,77.0,75.0
+SM331,2000-10-11,male,group C,high school,standard,none,71.0,60.0,61.0
+SF828,2000-10-20,female,group C,some high school,standard,none,65.0,69.0,76.0
+SM53,2000-10-27,male,group C,some college,standard,none,53.0,44.0,42.0
+SF174,2000-11-2,female,group C,associate's degree,standard,none,63.0,60.0,70.0
+SF346,2000-11-6,female,group C,high school,standard,none,72.0,80.0,75.0
+SM818,2000-11-9,male,group D,bachelor's degree,free/reduced,completed,61.0,70.0,76.0
+SF339,2000-11-10,female,group B,some high school,free/reduced,none,24.0,38.0,27.0
+SF919,2000-11-12,female,group C,associate's degree,standard,completed,57.0,77.0,80.0
+SF822,2000-11-13,female,group D,bachelor's degree,free/reduced,none,78.0,90.0,93.0
+SF453,2000-11-16,female,group C,associate's degree,free/reduced,none,65.0,77.0,74.0
+SM890,2000-11-17,male,group D,high school,free/reduced,none,44.0,51.0,48.0
+SF146,2000-11-19,female,group C,some college,free/reduced,none,22.0,39.0,33.0
+SM367,2000-11-23,male,group C,high school,standard,completed,69.0,58.0,53.0
+SM419,2000-11-24,male,group D,some college,standard,none,68.0,59.0,62.0
+SF573,2000-11-25,female,group C,some college,standard,none,53.0,62.0,56.0
+SM687,2000-11-25,male,group E,some college,standard,completed,85.0,75.0,68.0
+SF242,2000-11-25,female,group E,bachelor's degree,standard,none,80.0,83.0,83.0
+SM286,2000-11-27,male,group B,associate's degree,standard,completed,81.0,82.0,82.0
+SM521,2000-11-29,male,group D,some college,standard,none,71.0,49.0,52.0
+SF843,2000-12-1,female,group B,high school,free/reduced,completed,23.0,44.0,36.0
+SM145,2000-12-2,male,group D,some college,standard,none,88.0,73.0,78.0
+SF798,2000-12-2,female,group E,associate's degree,free/reduced,none,70.0,84.0,81.0
+SF56,2000-12-2,female,group C,high school,free/reduced,none,33.0,41.0,43.0
+SM460,2000-12-2,male,group B,high school,standard,completed,72.0,65.0,68.0
+SF838,2000-12-4,female,group A,high school,standard,completed,75.0,82.0,79.0
+SM785,2000-12-4,male,group C,bachelor's degree,standard,completed,91.0,81.0,79.0
+SF783,2000-12-11,female,group B,high school,free/reduced,completed,76.0,85.0,82.0
+SM332,2000-12-12,male,group C,associate's degree,standard,none,47.0,37.0,35.0
+SF32,2000-12-12,female,group B,some college,standard,none,63.0,65.0,61.0
+SM917,2000-12-17,male,group E,bachelor's degree,standard,completed,100.0,100.0,100.0
+SF464,2000-12-17,female,group C,some college,free/reduced,none,77.0,90.0,91.0
+SM373,2000-12-20,male,group D,some high school,standard,none,74.0,74.0,72.0
+SM290,2000-12-21,male,group E,some high school,standard,completed,77.0,76.0,77.0
+SM160,2000-12-22,male,group D,associate's degree,free/reduced,none,66.0,62.0,64.0
+SM19,2000-12-28,male,group C,master's degree,free/reduced,completed,46.0,42.0,46.0
+SF889,2000-12-30,female,group D,some college,free/reduced,none,69.0,65.0,74.0
+SM449,2000-12-31,male,group B,high school,standard,none,47.0,46.0,42.0
+SF892,2001-1-1,female,group E,associate's degree,standard,none,85.0,92.0,85.0
+SF545,2001-1-5,female,group D,master's degree,standard,none,64.0,63.0,66.0
+SF698,2001-1-5,female,group A,bachelor's degree,standard,none,59.0,72.0,70.0
+SM383,2001-1-9,male,group C,master's degree,free/reduced,none,79.0,81.0,71.0
+SF455,2001-1-27,female,group C,associate's degree,free/reduced,none,53.0,61.0,62.0
+SF617,2001-2-1,female,group E,bachelor's degree,standard,none,37.0,45.0,38.0
+SF840,2001-2-2,female,group C,associate's degree,standard,none,66.0,77.0,73.0
+SF825,2001-2-7,female,group C,some high school,free/reduced,none,48.0,58.0,52.0
+SF807,2001-2-10,female,group D,some college,free/reduced,none,64.0,74.0,75.0
+SF574,2001-2-12,female,group C,high school,free/reduced,completed,50.0,66.0,64.0
+SM211,2001-2-12,male,group D,some high school,free/reduced,completed,80.0,79.0,79.0
+SM276,2001-2-13,male,group C,bachelor's degree,standard,none,83.0,78.0,73.0
+SM292,2001-2-21,male,group D,some high school,standard,none,86.0,73.0,70.0
+SF942,2001-2-22,female,group D,master's degree,standard,none,78.0,91.0,96.0
+SM44,2001-2-22,male,group B,some college,free/reduced,completed,59.0,65.0,66.0
+SM983,2001-2-25,male,group B,some high school,standard,completed,79.0,85.0,86.0
+SM391,2001-2-26,male,group E,some high school,free/reduced,completed,81.0,67.0,59.0
+SF90,2001-2-26,female,group D,some high school,standard,none,73.0,86.0,82.0
+SM835,2001-2-28,male,group B,some college,standard,none,58.0,50.0,45.0
+SF787,2001-2-28,female,group E,some high school,free/reduced,none,72.0,79.0,77.0
+SF223,2001-3-1,female,group C,some high school,free/reduced,none,55.0,65.0,62.0
+SM394,2001-3-10,male,group C,associate's degree,standard,completed,57.0,54.0,56.0
+SM208,2001-3-10,male,group E,high school,standard,completed,81.0,80.0,76.0
+SF849,2001-3-11,female,group C,high school,standard,none,59.0,72.0,68.0
+SF792,2001-3-12,female,group D,some college,free/reduced,none,60.0,66.0,70.0
+SF681,2001-3-22,female,group D,high school,standard,none,67.0,72.0,74.0
+SF895,2001-3-22,female,group E,associate's degree,standard,none,59.0,62.0,69.0
+SF22,2001-3-28,female,group B,some college,free/reduced,completed,65.0,75.0,70.0
+SF668,2001-3-30,female,group B,bachelor's degree,free/reduced,none,77.0,85.0,87.0
+SF60,2001-4-9,female,group C,some high school,free/reduced,none,0.0,17.0,10.0
+SF962,2001-4-10,female,group D,some high school,free/reduced,none,48.0,54.0,53.0
+SF735,2001-4-11,female,group E,some college,free/reduced,none,53.0,58.0,57.0
+SM780,2001-4-14,male,group E,associate's degree,standard,completed,94.0,85.0,82.0
+SM746,2001-4-15,male,group D,associate's degree,standard,none,72.0,79.0,74.0
+SF796,2001-4-19,female,group E,associate's degree,free/reduced,completed,57.0,68.0,73.0
+SF712,2001-4-19,female,group E,some high school,standard,completed,80.0,85.0,85.0
+SF544,2001-4-21,female,group D,associate's degree,standard,none,82.0,95.0,89.0
+SF973,2001-4-22,female,group A,high school,free/reduced,completed,53.0,50.0,60.0
+SM251,2001-4-23,male,group A,some high school,standard,completed,47.0,49.0,49.0
+SM940,2001-4-28,male,group D,some high school,standard,completed,77.0,68.0,69.0
+SM758,2001-4-29,male,group E,bachelor's degree,free/reduced,completed,70.0,68.0,72.0
+SF697,2001-4-30,female,group C,associate's degree,standard,completed,75.0,82.0,90.0
+SF18,2001-5-2,female,group B,some high school,free/reduced,none,18.0,32.0,28.0
+SM345,2001-5-2,male,group D,some college,standard,none,79.0,73.0,67.0
+SM660,2001-5-6,male,group D,associate's degree,standard,none,90.0,87.0,85.0
+SM591,2001-5-6,male,group C,some college,free/reduced,none,58.0,57.0,54.0
+SM907,2001-5-7,male,group B,high school,standard,none,57.0,48.0,51.0
+SF788,2001-5-7,female,group B,some college,standard,none,19.0,38.0,32.0
+SF195,2001-5-14,female,group C,master's degree,standard,completed,69.0,84.0,85.0
+SF601,2001-5-16,female,group D,master's degree,standard,none,54.0,60.0,63.0
+SF351,2001-5-16,female,group B,bachelor's degree,standard,none,52.0,65.0,69.0
+SF401,2001-5-17,female,group C,some high school,standard,completed,59.0,54.0,67.0
+SF603,2001-5-19,female,group E,some college,standard,none,76.0,78.0,80.0
+SF248,2001-5-20,female,group B,high school,standard,completed,58.0,70.0,68.0
+SM272,2001-5-23,male,group C,some college,standard,none,58.0,49.0,42.0
+SF348,2001-5-25,female,group C,bachelor's degree,standard,completed,77.0,94.0,95.0
+SF928,2001-5-27,female,group D,high school,free/reduced,completed,65.0,61.0,71.0
+SF13,2001-5-28,female,group B,high school,standard,none,65.0,81.0,73.0
+SF646,2001-5-30,female,group B,bachelor's degree,standard,completed,65.0,81.0,81.0
+SF562,2001-5-31,female,group C,some college,standard,none,63.0,74.0,74.0
+SM977,2001-6-4,male,group B,some college,free/reduced,completed,60.0,62.0,60.0
+SF48,2001-6-8,female,group C,high school,standard,none,66.0,71.0,76.0
+SF16,2001-6-9,female,group C,some high school,standard,none,69.0,75.0,78.0
+SM995,2001-6-10,male,group A,high school,standard,none,63.0,63.0,62.0
+SM21,2001-6-10,male,group D,high school,standard,none,66.0,69.0,63.0
+SM341,2001-6-11,male,group C,high school,free/reduced,none,58.0,61.0,52.0
+SF989,2001-6-18,female,group A,some high school,free/reduced,none,44.0,45.0,45.0
+SM188,2001-6-21,male,group D,some high school,standard,completed,62.0,66.0,68.0
+SM793,2001-6-21,male,group D,high school,free/reduced,none,66.0,74.0,69.0
+SF443,2001-7-3,female,group A,some high school,free/reduced,none,59.0,73.0,69.0
+SM462,2001-7-6,male,group B,some college,free/reduced,none,54.0,54.0,45.0
+SM189,2001-7-8,male,group B,some high school,free/reduced,none,48.0,52.0,45.0
+SF177,2001-7-9,female,group B,high school,free/reduced,completed,46.0,54.0,58.0
+SF111,2001-7-10,female,group D,associate's degree,free/reduced,completed,77.0,89.0,98.0
+SF499,2001-7-11,female,group B,some high school,standard,none,66.0,69.0,68.0
+SF15,2001-7-12,female,group A,master's degree,standard,none,50.0,53.0,58.0
+SF134,2001-7-12,female,group C,some college,standard,completed,75.0,81.0,84.0
+SM937,2001-7-17,male,group A,associate's degree,standard,none,67.0,57.0,53.0
+SM956,2001-7-23,male,group E,associate's degree,standard,none,72.0,57.0,62.0
+SM416,2001-7-23,male,group E,high school,standard,none,84.0,73.0,69.0
+SF515,2001-7-23,female,group B,master's degree,free/reduced,completed,77.0,97.0,94.0
+SF912,2001-7-25,female,group A,some college,standard,none,69.0,84.0,82.0
+SM350,2001-7-25,male,group E,associate's degree,standard,none,87.0,74.0,76.0
+SM604,2001-7-27,male,group D,high school,free/reduced,none,60.0,57.0,51.0
+SF421,2001-7-28,female,group C,associate's degree,free/reduced,completed,82.0,93.0,93.0
+SF575,2001-7-29,female,group E,high school,standard,none,74.0,81.0,71.0
+SM689,2001-7-29,male,group A,high school,free/reduced,none,53.0,58.0,44.0
+SF985,2001-7-30,female,group C,some high school,standard,none,74.0,75.0,82.0
+SF106,2001-8-8,female,group C,some college,standard,none,58.0,67.0,72.0
+SF528,2001-8-9,female,group C,high school,free/reduced,none,36.0,53.0,43.0
+SM867,2001-8-10,male,group C,high school,free/reduced,none,59.0,53.0,52.0
+SM334,2001-8-11,male,group B,associate's degree,standard,none,90.0,78.0,81.0
+SM750,2001-8-15,male,group B,some college,standard,completed,87.0,84.0,86.0
+SM740,2001-8-29,male,group C,high school,free/reduced,none,61.0,60.0,55.0
+SF602,2001-8-30,female,group C,high school,standard,none,29.0,29.0,30.0
+SM192,2001-8-31,male,group D,some college,standard,completed,76.0,83.0,79.0
+SM85,2001-9-5,male,group D,high school,free/reduced,none,42.0,39.0,34.0
+SF595,2001-9-6,female,group C,bachelor's degree,standard,completed,92.0,100.0,99.0
+SM125,2001-9-7,male,group E,some college,standard,none,83.0,80.0,73.0
+SF824,2001-9-7,female,group B,high school,free/reduced,none,71.0,87.0,82.0
+SF872,2001-9-8,female,group C,some college,standard,completed,70.0,72.0,76.0
+SM34,2001-9-14,male,group D,some college,standard,none,40.0,42.0,38.0
+SM275,2001-9-15,male,group B,some college,standard,completed,88.0,85.0,76.0
+SM658,2001-9-19,male,group D,some high school,standard,none,69.0,66.0,61.0
+SF143,2001-9-25,female,group E,some college,free/reduced,completed,42.0,55.0,54.0
+SF621,2001-9-27,female,group C,high school,free/reduced,none,35.0,61.0,54.0
+SF392,2001-10-2,female,group D,some college,standard,none,77.0,68.0,77.0
+SF883,2001-10-3,female,group B,high school,free/reduced,none,64.0,73.0,71.0
+SF409,2001-10-3,female,group D,high school,free/reduced,completed,52.0,57.0,56.0
+SM763,2001-10-4,male,group D,some high school,standard,completed,78.0,81.0,86.0
+SF716,2001-10-4,female,group B,associate's degree,free/reduced,completed,76.0,94.0,87.0
+SM662,2001-10-5,male,group C,some high school,standard,none,73.0,66.0,63.0
+SF534,2001-10-6,female,group E,associate's degree,standard,completed,79.0,88.0,94.0
+SM220,2001-10-8,male,group B,some high school,standard,completed,61.0,56.0,56.0
+SF600,2001-10-11,female,group D,some high school,standard,none,65.0,82.0,81.0
+SM837,2001-10-13,male,group E,high school,standard,none,73.0,64.0,57.0
+SM437,2001-10-15,male,group D,associate's degree,standard,none,75.0,68.0,64.0
+SF324,2001-10-17,female,group C,some high school,free/reduced,none,43.0,53.0,53.0
+SF882,2001-10-19,female,group E,bachelor's degree,standard,completed,71.0,70.0,70.0
+SF98,2001-10-19,female,group E,some college,standard,completed,63.0,72.0,70.0
+SF891,2001-10-22,female,group E,some college,standard,completed,86.0,85.0,91.0
+SF581,2001-10-24,female,group D,some high school,standard,none,81.0,97.0,96.0
+SM399,2001-10-27,male,group B,some high school,standard,none,74.0,63.0,57.0
+SM77,2001-10-30,male,group E,some high school,standard,none,30.0,26.0,22.0
+SF342,2001-11-3,female,group C,high school,standard,none,61.0,73.0,63.0
+SM765,2001-11-7,male,group D,some college,standard,none,60.0,63.0,59.0
+SF719,2001-11-10,female,group C,high school,standard,none,76.0,76.0,74.0
+SM542,2001-11-11,male,group D,associate's degree,free/reduced,completed,79.0,82.0,80.0
+SM535,2001-11-13,male,group B,high school,standard,completed,73.0,69.0,68.0
+SF504,2001-11-18,female,group E,associate's degree,standard,completed,95.0,89.0,92.0
+SF226,2001-11-19,female,group E,master's degree,free/reduced,none,45.0,56.0,54.0
+SF567,2001-11-20,female,group E,bachelor's degree,free/reduced,completed,92.0,100.0,100.0
+SF845,2001-11-25,female,group D,some high school,free/reduced,completed,40.0,65.0,64.0
+SF157,2001-11-26,female,group E,high school,free/reduced,completed,66.0,74.0,78.0
+SM926,2001-12-6,male,group E,some high school,standard,completed,74.0,64.0,60.0
+SM541,2001-12-7,male,group C,high school,standard,completed,75.0,69.0,68.0
+SM772,2001-12-8,male,group D,bachelor's degree,standard,none,75.0,73.0,74.0
+SF625,2001-12-10,female,group E,bachelor's degree,free/reduced,none,61.0,58.0,62.0
+SF408,2001-12-12,female,group B,associate's degree,standard,none,82.0,80.0,77.0
+SM215,2001-12-14,male,group E,high school,standard,completed,87.0,91.0,81.0
+SM593,2001-12-16,male,group E,bachelor's degree,standard,none,68.0,68.0,64.0
+SF309,2001-12-17,female,group B,associate's degree,free/reduced,none,53.0,71.0,67.0
+SF782,2001-12-19,female,group B,master's degree,standard,none,77.0,90.0,84.0
+SM155,2001-12-19,male,group D,some high school,standard,none,62.0,67.0,61.0
+SM327,2001-12-19,male,group C,some college,standard,none,61.0,61.0,62.0
+SF31,2001-12-19,female,group D,some college,standard,none,69.0,74.0,74.0
+SF269,2001-12-21,female,group D,associate's degree,standard,completed,88.0,92.0,95.0
+SM651,2001-12-23,male,group C,some high school,free/reduced,completed,51.0,56.0,53.0
+SM296,2001-12-27,male,group B,associate's degree,free/reduced,none,67.0,62.0,60.0
+SM113,2001-12-29,male,group A,associate's degree,standard,none,54.0,53.0,47.0
+SM347,2002-1-3,male,group B,some college,standard,none,62.0,61.0,57.0
+SM247,2002-1-5,male,group E,associate's degree,standard,none,89.0,76.0,74.0
+SF976,2002-1-10,female,group C,some college,standard,completed,64.0,82.0,77.0
+SF221,2002-1-12,female,group D,high school,standard,completed,56.0,68.0,74.0
+SF415,2002-1-12,female,group C,bachelor's degree,free/reduced,completed,51.0,72.0,79.0
+SF945,2002-1-13,female,group B,high school,standard,none,58.0,68.0,61.0
+SM685,2002-1-23,male,group B,some college,standard,completed,62.0,66.0,68.0
+SF404,2002-1-26,female,group D,high school,standard,completed,88.0,99.0,100.0
+SF817,2002-1-27,female,group A,bachelor's degree,standard,none,45.0,59.0,64.0
+SM870,2002-1-28,male,group C,associate's degree,free/reduced,none,49.0,51.0,51.0
+SF379,2002-2-3,female,group A,some high school,standard,none,71.0,83.0,77.0
+SF471,2002-2-3,female,group C,associate's degree,standard,completed,83.0,85.0,90.0
+SF961,2002-2-3,female,group A,some college,standard,none,56.0,58.0,64.0
+SM873,2002-2-5,male,group B,associate's degree,standard,completed,82.0,84.0,78.0
+SF434,2002-2-7,female,group A,some high school,free/reduced,none,47.0,59.0,50.0
+SF432,2002-2-8,female,group C,high school,standard,none,61.0,72.0,70.0
+SM703,2002-2-9,male,group A,bachelor's degree,standard,completed,87.0,84.0,87.0
+SF406,2002-2-9,female,group C,some high school,standard,none,63.0,73.0,68.0
+SM94,2002-2-10,male,group C,associate's degree,free/reduced,completed,43.0,45.0,50.0
+SF175,2002-2-10,female,group C,bachelor's degree,free/reduced,completed,43.0,51.0,54.0
+SF994,2002-2-11,female,group D,bachelor's degree,free/reduced,none,62.0,72.0,74.0
+SF79,2002-2-11,female,group D,some high school,standard,completed,61.0,74.0,72.0
+SM682,2002-2-14,male,group B,high school,standard,none,60.0,68.0,60.0
+SF981,2002-2-17,female,group B,high school,free/reduced,none,8.0,24.0,23.0
+SM550,2002-2-20,male,group C,master's degree,standard,none,79.0,72.0,69.0
+SF395,2002-2-22,female,group C,some high school,standard,completed,65.0,74.0,77.0
+SM231,2002-2-24,male,group D,some college,standard,none,76.0,64.0,66.0
+SF39,2002-2-25,female,group D,associate's degree,free/reduced,completed,75.0,90.0,88.0
+SF466,2002-3-3,female,group C,some college,standard,none,84.0,87.0,91.0
+SM826,2002-3-4,male,group C,high school,standard,none,62.0,67.0,58.0
+SF663,2002-3-5,female,group D,some college,free/reduced,none,55.0,71.0,69.0
+SF950,2002-3-6,female,group E,high school,free/reduced,completed,57.0,75.0,73.0
+SF813,2002-3-6,female,group C,master's degree,standard,completed,54.0,64.0,67.0
+SF547,2002-3-12,female,group A,some high school,standard,completed,92.0,100.0,97.0
+SM986,2002-3-12,male,group A,high school,standard,none,57.0,51.0,54.0
+SM104,2002-3-14,male,group B,high school,standard,completed,60.0,44.0,47.0
+SF1,2002-3-15,female,group B,bachelor's degree,standard,none,72.0,72.0,74.0
+SF444,2002-3-17,female,group B,associate's degree,standard,none,73.0,83.0,76.0
+SM137,2002-3-21,male,group B,some high school,standard,completed,51.0,54.0,41.0
+SF607,2002-3-21,female,group C,associate's degree,standard,none,85.0,84.0,82.0
+SF738,2002-3-21,female,group B,some college,free/reduced,completed,53.0,66.0,73.0
+SF370,2002-3-22,female,group D,some high school,standard,none,73.0,84.0,85.0
+SM312,2002-3-23,male,group B,bachelor's degree,standard,none,66.0,60.0,57.0
+SF580,2002-4-1,female,group D,master's degree,standard,none,53.0,61.0,68.0
+SF193,2002-4-4,female,group B,some high school,standard,none,62.0,64.0,66.0
+SM866,2002-4-5,male,group D,some college,standard,completed,82.0,82.0,88.0
+SM61,2002-4-5,male,group E,bachelor's degree,free/reduced,completed,79.0,74.0,72.0
+SM41,2002-4-6,male,group C,associate's degree,free/reduced,none,55.0,61.0,54.0
+SM714,2002-4-9,male,group D,master's degree,standard,none,81.0,81.0,84.0
+SF91,2002-4-12,female,group C,bachelor's degree,standard,none,65.0,72.0,74.0
+SM92,2002-4-13,male,group C,high school,free/reduced,none,27.0,34.0,36.0
+SM736,2002-4-20,male,group C,master's degree,standard,none,67.0,57.0,59.0
+SM850,2002-4-20,male,group D,associate's degree,standard,none,80.0,75.0,69.0
+SM645,2002-4-27,male,group B,high school,standard,none,70.0,65.0,60.0
+SM539,2002-4-29,male,group E,bachelor's degree,standard,completed,85.0,66.0,71.0
+SF259,2002-5-1,female,group B,some college,standard,none,70.0,75.0,78.0
+SF633,2002-5-6,female,group B,bachelor's degree,standard,completed,66.0,74.0,81.0
+SF510,2002-5-6,female,group C,bachelor's degree,standard,none,86.0,92.0,87.0
+SM51,2002-5-8,male,group E,some college,standard,none,53.0,55.0,48.0
+SF283,2002-5-10,female,group D,bachelor's degree,free/reduced,none,73.0,79.0,84.0
+SF330,2002-5-11,female,group B,some high school,standard,none,41.0,55.0,51.0
+SF644,2002-5-13,female,group E,high school,standard,completed,74.0,79.0,80.0
+SM393,2002-5-15,male,group E,some college,standard,none,76.0,67.0,67.0
+SF779,2002-5-15,female,group A,some college,standard,completed,72.0,79.0,82.0
+SF676,2002-5-17,female,group B,some college,standard,completed,50.0,64.0,66.0
+SF519,2002-5-17,female,group D,some high school,standard,completed,66.0,78.0,78.0
+SF678,2002-5-20,female,group C,some high school,standard,completed,70.0,82.0,76.0
+SM846,2002-5-20,male,group E,master's degree,standard,none,90.0,85.0,84.0
+SF325,2002-5-21,female,group C,high school,free/reduced,none,41.0,46.0,43.0
+SM965,2002-5-23,male,group D,some college,standard,none,72.0,57.0,58.0
+SM628,2002-5-23,male,group D,associate's degree,standard,none,61.0,48.0,46.0
+SM512,2002-5-24,male,group A,some high school,standard,none,64.0,50.0,43.0
+SF654,2002-5-26,female,group A,associate's degree,standard,completed,65.0,70.0,74.0
+SM936,2002-5-28,male,group D,some college,free/reduced,none,70.0,63.0,58.0
+SM271,2002-6-5,male,group C,bachelor's degree,standard,none,69.0,63.0,61.0
+SF472,2002-6-6,female,group C,high school,standard,none,63.0,69.0,74.0
+SM163,2002-6-6,male,group B,master's degree,free/reduced,none,49.0,53.0,52.0
+SF442,2002-6-10,female,group D,high school,standard,none,78.0,81.0,80.0
+SF915,2002-6-12,female,group B,associate's degree,free/reduced,none,46.0,61.0,55.0
+SF476,2002-6-13,female,group D,bachelor's degree,standard,completed,71.0,76.0,83.0
+SM82,2002-6-14,male,group B,high school,free/reduced,none,49.0,45.0,45.0
+SF582,2002-6-14,female,group E,some high school,standard,none,77.0,79.0,80.0
+SM84,2002-6-19,male,group E,associate's degree,standard,none,72.0,64.0,63.0
+SM533,2002-6-19,male,group E,associate's degree,standard,completed,62.0,61.0,58.0
+SM439,2002-6-20,male,group C,high school,standard,none,70.0,56.0,51.0
+SM657,2002-6-23,male,group C,associate's degree,free/reduced,none,77.0,67.0,64.0
+SM752,2002-6-23,male,group E,some college,standard,none,68.0,72.0,65.0
+SM237,2002-6-24,male,group D,bachelor's degree,free/reduced,none,63.0,66.0,67.0
+SF173,2002-7-1,female,group D,some college,standard,none,100.0,86.0,81.0
+SM430,2002-7-3,male,group C,some high school,free/reduced,none,68.0,63.0,54.0
+SF217,2002-7-6,female,group E,associate's degree,free/reduced,completed,83.0,86.0,88.0
+SM151,2002-7-8,male,group A,some high school,standard,completed,62.0,67.0,69.0
+SF64,2002-7-11,female,group C,associate's degree,standard,none,69.0,80.0,71.0
+SF904,2002-7-12,female,group D,bachelor's degree,free/reduced,completed,93.0,100.0,100.0
+SM894,2002-7-13,male,group D,some high school,standard,completed,88.0,74.0,75.0
+SM112,2002-7-15,male,group C,high school,standard,none,62.0,55.0,49.0
+SF549,2002-7-17,female,group C,high school,free/reduced,none,62.0,67.0,64.0
+SM313,2002-7-21,male,group D,bachelor's degree,standard,completed,67.0,61.0,68.0
+SF749,2002-7-24,female,group C,bachelor's degree,free/reduced,none,50.0,60.0,59.0
+SM755,2002-7-26,male,group C,associate's degree,free/reduced,none,58.0,55.0,53.0
+SF955,2002-7-26,female,group C,some college,standard,none,62.0,69.0,69.0
+SM968,2002-7-30,male,group C,some college,standard,none,63.0,63.0,60.0
+SM17,2002-7-30,male,group C,high school,standard,none,88.0,89.0,86.0
+SF99,2002-8-1,female,group D,some college,free/reduced,none,58.0,67.0,62.0
+SF557,2002-8-7,female,group C,associate's degree,standard,completed,55.0,72.0,79.0
+SF467,2002-8-10,female,group D,associate's degree,free/reduced,none,26.0,31.0,38.0
+SM295,2002-8-11,male,group D,high school,free/reduced,completed,78.0,77.0,80.0
+SF543,2002-8-13,female,group C,associate's degree,standard,none,81.0,77.0,79.0
+SM246,2002-8-19,male,group C,associate's degree,standard,none,85.0,76.0,71.0
+SF451,2002-8-19,female,group C,some college,free/reduced,completed,64.0,85.0,85.0
+SF532,2002-8-20,female,group C,some high school,standard,none,47.0,54.0,53.0
+SM605,2002-8-20,male,group D,master's degree,free/reduced,completed,84.0,89.0,90.0
+SF260,2002-8-25,female,group C,master's degree,free/reduced,completed,65.0,81.0,81.0
+SF361,2002-8-29,female,group B,high school,standard,none,58.0,62.0,59.0
+SF731,2002-8-29,female,group B,associate's degree,free/reduced,completed,68.0,77.0,80.0
+SM636,2002-9-2,male,group A,high school,standard,none,71.0,74.0,64.0
+SM368,2002-9-2,male,group C,bachelor's degree,free/reduced,none,61.0,66.0,61.0
+SM244,2002-9-2,male,group E,some college,standard,none,59.0,51.0,43.0
+SM757,2002-9-3,male,group D,some college,standard,none,55.0,58.0,52.0
+SM760,2002-9-7,male,group B,some college,standard,completed,69.0,77.0,77.0
+SM158,2002-9-8,male,group B,some college,free/reduced,none,60.0,60.0,60.0
+SM245,2002-9-8,male,group D,some high school,standard,none,75.0,74.0,69.0
+SM414,2002-9-14,male,group B,some high school,standard,completed,63.0,67.0,67.0
+SF491,2002-9-15,female,group A,associate's degree,free/reduced,none,65.0,85.0,76.0
+SF123,2002-9-20,female,group C,some college,standard,completed,88.0,93.0,93.0
+SM816,2002-9-21,male,group B,some high school,standard,completed,94.0,86.0,87.0
+SM105,2002-9-26,male,group C,some college,standard,completed,98.0,86.0,90.0
+SF169,2002-9-28,female,group B,associate's degree,standard,completed,68.0,83.0,78.0
+SM181,2002-9-28,male,group C,master's degree,free/reduced,completed,62.0,68.0,75.0
+SF267,2002-9-28,female,group C,bachelor's degree,standard,none,63.0,75.0,81.0
+SF213,2002-9-29,female,group C,high school,free/reduced,none,42.0,62.0,60.0
+SF743,2002-9-29,female,group C,high school,standard,none,81.0,84.0,82.0
+SF389,2002-9-29,female,group D,high school,standard,none,62.0,64.0,64.0
+SM741,2002-10-2,male,group D,bachelor's degree,standard,none,80.0,73.0,72.0
+SM839,2002-10-2,male,group B,associate's degree,free/reduced,completed,58.0,57.0,53.0
+SM847,2002-10-3,male,group C,master's degree,standard,completed,91.0,85.0,85.0
+SF742,2002-10-4,female,group A,associate's degree,free/reduced,none,37.0,57.0,56.0
+SM708,2002-10-12,male,group C,some college,standard,none,66.0,59.0,52.0
+SF422,2002-10-20,female,group D,high school,standard,completed,57.0,58.0,64.0
+SF87,2002-10-21,female,group C,some college,free/reduced,none,76.0,83.0,88.0
+SF37,2002-10-28,female,group D,associate's degree,standard,none,74.0,81.0,83.0
+SF114,2002-11-1,female,group D,some college,standard,none,51.0,58.0,54.0
+SM11,2002-11-2,male,group C,associate's degree,standard,none,58.0,54.0,52.0
+SF786,2002-11-5,female,group B,some high school,standard,completed,32.0,51.0,44.0
+SF610,2002-11-5,female,group B,associate's degree,standard,none,58.0,63.0,65.0
+SM445,2002-11-6,male,group A,some high school,free/reduced,none,79.0,82.0,73.0
+SM967,2002-11-14,male,group A,some high school,standard,completed,66.0,68.0,64.0
+SF492,2002-11-20,female,group C,associate's degree,standard,none,64.0,64.0,70.0
+SM289,2002-11-21,male,group B,bachelor's degree,free/reduced,none,88.0,75.0,76.0
+SM934,2002-11-21,male,group C,bachelor's degree,free/reduced,completed,70.0,75.0,74.0
+SF820,2002-11-27,female,group C,some high school,standard,none,77.0,91.0,88.0
+SM206,2002-11-28,male,group D,some high school,standard,completed,74.0,71.0,78.0
+SM365,2002-12-9,male,group C,some college,standard,none,59.0,60.0,58.0
+SM857,2002-12-15,male,group B,some college,free/reduced,none,75.0,68.0,65.0
+SF913,2002-12-18,female,group C,bachelor's degree,standard,completed,52.0,61.0,66.0
+SM844,2002-12-24,male,group B,some college,free/reduced,completed,74.0,77.0,76.0
+SM124,2002-12-25,male,group D,high school,free/reduced,none,63.0,57.0,56.0
+SM537,2002-12-29,male,group C,associate's degree,standard,completed,51.0,60.0,58.0
+SM920,2002-12-31,male,group B,some college,standard,completed,91.0,96.0,91.0
+SF553,2003-1-2,female,group B,associate's degree,standard,none,40.0,48.0,50.0
+SF270,2003-1-3,female,group E,some college,free/reduced,none,71.0,76.0,70.0
+SF358,2003-1-5,female,group C,some college,free/reduced,completed,42.0,66.0,69.0
+SF517,2003-1-7,female,group D,some college,standard,none,74.0,89.0,84.0
+SF673,2003-1-7,female,group C,some college,standard,none,69.0,78.0,76.0
+SM941,2003-1-9,male,group C,master's degree,free/reduced,completed,72.0,66.0,72.0
+SF475,2003-1-9,female,group B,associate's degree,standard,completed,90.0,90.0,91.0
+SF864,2003-1-9,female,group C,some college,standard,completed,71.0,71.0,80.0
+SM458,2003-1-9,male,group D,associate's degree,free/reduced,none,53.0,54.0,48.0
+SF671,2003-1-17,female,group C,high school,free/reduced,none,66.0,76.0,68.0
+SF372,2003-1-22,female,group C,some college,free/reduced,completed,45.0,73.0,70.0
+SF556,2003-1-26,female,group C,some college,free/reduced,none,32.0,39.0,33.0
+SF642,2003-1-29,female,group D,associate's degree,free/reduced,completed,74.0,88.0,90.0
+SF130,2003-2-3,female,group A,bachelor's degree,standard,none,51.0,49.0,51.0
+SM949,2003-2-4,male,group B,some high school,free/reduced,completed,49.0,50.0,52.0
+SF516,2003-2-6,female,group C,some high school,standard,completed,76.0,87.0,85.0
+SM304,2003-2-19,male,group B,associate's degree,standard,none,80.0,76.0,64.0
+SF126,2003-2-22,female,group B,high school,standard,none,87.0,95.0,86.0
+SF156,2003-2-23,female,group C,some college,standard,completed,70.0,89.0,88.0
+SM598,2003-2-23,male,group A,some high school,standard,none,53.0,54.0,48.0
+SM489,2003-2-28,male,group B,some high school,standard,completed,64.0,53.0,57.0
+SF479,2003-3-22,female,group D,master's degree,standard,none,55.0,64.0,70.0
+SM982,2003-3-22,male,group D,some high school,standard,none,81.0,78.0,78.0
+SF764,2003-3-30,female,group B,high school,standard,none,62.0,62.0,63.0
+SM185,2003-3-31,male,group C,some high school,free/reduced,completed,45.0,52.0,49.0
+SF684,2003-4-3,female,group C,some high school,free/reduced,completed,29.0,40.0,44.0
+SM412,2003-4-4,male,group E,some college,standard,completed,84.0,83.0,78.0
+SM306,2003-4-5,male,group A,some college,standard,none,69.0,67.0,69.0
+SM171,2003-4-6,male,group A,high school,standard,completed,72.0,73.0,74.0
+SF588,2003-4-8,female,group C,bachelor's degree,free/reduced,none,44.0,63.0,62.0
+SF263,2003-4-12,female,group C,some high school,free/reduced,none,44.0,50.0,51.0
+SM577,2003-4-12,male,group A,some college,standard,completed,61.0,51.0,52.0
+SM810,2003-4-18,male,group B,bachelor's degree,standard,none,59.0,54.0,51.0
+SF210,2003-4-18,female,group B,some college,free/reduced,none,58.0,61.0,66.0
+SM147,2003-4-20,male,group B,some high school,standard,none,88.0,84.0,75.0
+SF369,2003-4-30,female,group A,some high school,free/reduced,none,44.0,64.0,58.0
+SF426,2003-5-2,female,group C,some college,free/reduced,none,62.0,67.0,62.0
+SM910,2003-5-3,male,group E,bachelor's degree,standard,completed,70.0,64.0,70.0
+SM219,2003-5-6,male,group B,high school,free/reduced,none,66.0,77.0,70.0
+SF693,2003-5-6,female,group C,bachelor's degree,free/reduced,completed,66.0,74.0,81.0
+SM344,2003-5-6,male,group D,associate's degree,standard,completed,67.0,72.0,67.0
+SM97,2003-5-10,male,group B,some high school,standard,completed,65.0,66.0,62.0
+SF518,2003-5-13,female,group E,some college,standard,completed,66.0,74.0,73.0
+SM349,2003-5-16,male,group D,high school,free/reduced,none,75.0,74.0,66.0
+SM957,2003-5-16,male,group C,some college,standard,none,84.0,87.0,81.0
+SF7,2003-5-19,female,group B,some college,standard,completed,88.0,95.0,92.0
+SF634,2003-5-21,female,group C,high school,standard,none,75.0,88.0,85.0
+SM927,2003-5-26,male,group E,associate's degree,free/reduced,none,64.0,56.0,52.0
+SM234,2003-5-29,male,group E,some high school,standard,none,92.0,87.0,78.0
+SM768,2003-6-3,male,group B,high school,standard,completed,76.0,62.0,60.0
+SM69,2003-6-6,male,group B,associate's degree,free/reduced,none,61.0,58.0,56.0
+SF993,2003-6-9,female,group D,associate's degree,free/reduced,none,55.0,76.0,76.0
+SF699,2003-6-12,female,group D,associate's degree,standard,completed,57.0,78.0,79.0
+SM128,2003-6-14,male,group D,some college,standard,completed,65.0,77.0,74.0
+SM802,2003-6-16,male,group C,some high school,standard,completed,76.0,80.0,73.0
+SM93,2003-6-16,male,group C,high school,standard,none,71.0,79.0,71.0
+SF28,2003-6-17,female,group C,bachelor's degree,standard,none,67.0,69.0,75.0
+SF403,2003-6-18,female,group A,some college,free/reduced,none,49.0,65.0,55.0
+SF616,2003-6-19,female,group C,high school,standard,none,60.0,68.0,72.0
+SF834,2003-6-19,female,group B,high school,standard,completed,77.0,82.0,89.0
+SF190,2003-6-22,female,group C,bachelor's degree,standard,none,77.0,88.0,87.0
+SM410,2003-6-24,male,group D,associate's degree,standard,completed,87.0,84.0,85.0
+SF718,2003-6-29,female,group C,associate's degree,standard,completed,96.0,96.0,99.0
+SF713,2003-6-30,female,group D,some college,standard,none,98.0,100.0,99.0
+SF446,2003-7-7,female,group C,some high school,standard,completed,67.0,74.0,77.0
+SM29,2003-7-9,male,group C,high school,standard,none,70.0,70.0,65.0
+SM878,2003-7-17,male,group C,some high school,standard,none,57.0,61.0,54.0
+SM709,2003-7-17,male,group D,high school,standard,none,89.0,87.0,79.0
+SF715,2003-7-24,female,group B,some high school,standard,completed,60.0,70.0,74.0
+SM513,2003-7-30,male,group D,some high school,free/reduced,none,62.0,49.0,52.0
+SF924,2003-8-15,female,group B,associate's degree,free/reduced,none,54.0,65.0,65.0
+SM888,2003-8-17,male,group C,high school,free/reduced,none,54.0,72.0,59.0
+SM222,2003-8-20,male,group B,associate's degree,standard,none,87.0,85.0,73.0
+SM76,2003-8-23,male,group B,associate's degree,free/reduced,none,44.0,41.0,38.0
+SF355,2003-8-25,female,group C,some college,standard,none,59.0,71.0,70.0
+SF723,2003-8-27,female,group B,some high school,free/reduced,completed,74.0,90.0,88.0
+SM748,2003-9-5,male,group C,some college,standard,none,69.0,64.0,68.0
+SM25,2003-9-8,male,group D,bachelor's degree,free/reduced,completed,74.0,71.0,80.0
+SM477,2003-9-9,male,group E,bachelor's degree,standard,completed,76.0,62.0,66.0
+SF388,2003-9-10,female,group C,associate's degree,free/reduced,none,57.0,78.0,67.0
+SM376,2003-9-14,male,group E,associate's degree,free/reduced,none,46.0,43.0,41.0
+SF273,2003-9-17,female,group D,associate's degree,free/reduced,none,20.0,20.0,20.0
+SF909,2003-9-25,female,group C,bachelor's degree,free/reduced,none,67.0,75.0,72.0
+SF459,2003-9-28,female,group E,bachelor's degree,standard,none,100.0,100.0,100.0
+SF1000,2003-9-28,female,group D,some college,free/reduced,none,77.0,86.0,86.0
+SF204,2003-9-29,female,group B,associate's degree,standard,none,62.6,69.0,68.0
+SM592,2003-10-3,male,group A,some high school,standard,none,71.0,62.0,50.0
+SF561,2003-10-6,female,group D,some college,standard,completed,74.0,75.0,79.0
+SM551,2003-10-7,male,group C,some high school,free/reduced,none,79.0,76.0,65.0
+SF804,2003-10-7,female,group B,some college,standard,none,82.0,85.0,87.0
+SM806,2003-10-10,male,group A,some college,free/reduced,none,75.0,81.0,74.0
+SM255,2003-10-14,male,group D,high school,standard,none,54.0,52.0,52.0
+SF141,2003-10-16,female,group D,some high school,standard,none,76.0,72.0,71.0
+SF117,2003-10-17,female,group B,bachelor's degree,free/reduced,none,75.0,85.0,82.0
+SM679,2003-10-21,male,group D,associate's degree,free/reduced,none,81.0,75.0,78.0
+SF903,2003-10-28,female,group A,high school,free/reduced,completed,34.0,48.0,41.0
+SM876,2003-11-3,male,group C,some college,free/reduced,none,80.0,64.0,66.0
+SF381,2003-11-3,female,group B,associate's degree,standard,none,80.0,86.0,83.0
+SF24,2003-11-5,female,group C,some high school,standard,none,69.0,73.0,73.0
+SF589,2003-11-7,female,group C,some college,standard,none,54.0,64.0,65.0
+SF815,2003-11-7,female,group C,high school,standard,none,72.0,80.0,83.0
+SM214,2003-11-8,male,group C,associate's degree,free/reduced,completed,60.0,51.0,56.0
+SM939,2003-11-8,male,group D,some college,standard,completed,85.0,81.0,85.0
+SM496,2003-11-12,male,group D,high school,standard,completed,68.0,64.0,66.0
+SM240,2003-11-14,male,group C,associate's degree,standard,none,84.0,80.0,80.0
+SF182,2003-11-15,female,group C,some college,free/reduced,none,46.0,64.0,66.0
+SF488,2003-11-16,female,group C,associate's degree,free/reduced,none,60.0,75.0,74.0
+SF170,2003-11-16,female,group C,some college,free/reduced,completed,67.0,75.0,70.0
+SF653,2003-11-19,female,group D,some college,standard,completed,85.0,81.66666666666667,98.0
+SF667,2003-11-23,female,group C,some college,free/reduced,completed,63.0,73.0,71.0
+SF766,2003-12-2,female,group B,high school,standard,none,74.0,72.0,72.0
+SM9,2003-12-3,male,group D,high school,free/reduced,completed,64.0,64.0,67.0
+SM511,2003-12-5,male,group D,some college,standard,none,76.0,71.0,73.0
+SF790,2003-12-7,female,group C,master's degree,free/reduced,none,52.0,65.0,61.0
+SF705,2003-12-8,female,group B,some high school,free/reduced,completed,59.0,63.0,64.0
+SF953,2003-12-9,female,group E,some high school,free/reduced,none,74.0,74.0,72.0
+SF335,2003-12-16,female,group C,bachelor's degree,standard,none,83.0,93.0,95.0
+SM555,2003-12-20,male,group E,associate's degree,standard,none,53.0,45.0,40.0
+SM863,2003-12-25,male,group D,bachelor's degree,free/reduced,completed,39.0,42.0,38.0
+SM470,2003-12-25,male,group C,some college,standard,none,91.0,74.0,76.0
+SM881,2003-12-29,male,group C,bachelor's degree,standard,completed,63.0,64.0,66.0
+SF384,2004-1-2,female,group E,some high school,free/reduced,none,38.0,49.0,45.0
+SF590,2004-1-4,female,group A,some high school,standard,none,48.0,66.0,65.0
+SF360,2004-1-16,female,group D,some college,standard,none,80.0,90.0,89.0
+SF887,2004-1-16,female,group E,associate's degree,standard,completed,93.0,100.0,95.0
+SF649,2004-1-17,female,group B,high school,standard,none,63.333333333333336,53.0,55.0
+SF776,2004-1-17,female,group B,some high school,free/reduced,none,49.0,58.0,55.0
+SF356,2004-1-19,female,group B,bachelor's degree,standard,none,61.0,72.0,70.0
+SF821,2004-1-20,female,group A,some high school,standard,completed,85.0,90.0,92.0
+SF958,2004-1-26,female,group D,master's degree,standard,none,92.0,100.0,100.0
+SM745,2004-1-28,male,group B,some college,free/reduced,none,55.0,55.0,47.0
+SF875,2004-1-29,female,group C,bachelor's degree,free/reduced,none,43.0,62.0,61.0
+SF168,2004-1-30,female,group B,master's degree,free/reduced,completed,58.0,76.0,78.0
+SM254,2004-2-2,male,group D,master's degree,standard,none,80.0,80.0,72.0
+SM438,2004-2-5,male,group D,associate's degree,free/reduced,none,75.0,66.0,73.0
+SM72,2004-2-5,male,group D,some college,standard,completed,63.0,55.0,63.0
+SF317,2004-2-5,female,group D,master's degree,standard,completed,77.0,82.0,91.0
+SM357,2004-2-14,male,group A,associate's degree,standard,none,63.0,61.0,61.0
+SM78,2004-2-15,male,group A,bachelor's degree,standard,completed,80.0,78.0,81.0
+SM526,2004-2-24,male,group E,some college,standard,none,68.0,60.0,59.0
+SF701,2004-2-24,female,group E,bachelor's degree,standard,completed,79.0,81.0,82.0
+SM250,2004-2-27,male,group C,high school,standard,none,68.0,60.0,53.0
+SF95,2004-2-28,female,group B,some college,standard,none,79.0,86.0,92.0
+SF38,2004-3-1,female,group D,some high school,free/reduced,none,50.0,64.0,59.0
+SF120,2004-3-4,female,group C,some college,standard,none,55.0,69.0,65.0
+SF285,2004-3-7,female,group B,some high school,standard,none,37.0,46.0,46.0
+SM8,2004-3-13,male,group B,some college,free/reduced,none,40.0,55.2,39.0
+SM623,2004-3-24,male,group C,high school,free/reduced,completed,58.0,51.0,52.0
+SM732,2004-3-24,male,group A,some high school,free/reduced,none,55.0,46.0,43.0
+SM14,2004-3-30,male,group A,some college,standard,completed,78.0,72.0,70.0
+SM626,2004-4-1,male,group D,some college,standard,completed,100.0,97.0,99.0
+SF497,2004-4-1,female,group C,some college,standard,none,54.0,48.0,52.0
+SF902,2004-4-8,female,group C,master's degree,standard,none,73.0,78.0,74.0
+SF183,2004-4-9,female,group E,high school,standard,none,50.0,50.0,47.0
+SM396,2004-4-11,male,group A,high school,free/reduced,none,48.0,45.0,41.0
+SF405,2004-4-11,female,group C,high school,standard,none,54.0,59.0,62.0
+SF303,2004-4-13,female,group C,associate's degree,standard,completed,67.0,84.0,81.0
+SM58,2004-4-18,male,group D,associate's degree,standard,none,100.0,55.0,49.0
+SM490,2004-4-19,male,group A,associate's degree,free/reduced,completed,79.0,82.0,82.0
+SF323,2004-4-23,female,group C,some college,standard,none,71.0,81.0,80.0
+SF666,2004-4-26,female,group C,some high school,free/reduced,completed,50.0,60.0,60.0
+SM108,2004-4-30,male,group E,associate's degree,standard,completed,66.0,63.0,64.0
+SF905,2004-5-10,female,group D,some high school,free/reduced,none,67.0,84.0,84.0
+SF398,2004-5-12,female,group C,associate's degree,standard,none,85.0,89.0,95.0
+SM899,2004-5-12,male,group D,associate's degree,standard,completed,67.0,76.0,63.0
+SF336,2004-5-13,female,group B,some college,free/reduced,none,61.0,68.0,66.0
+SF274,2004-5-15,female,group D,some college,standard,none,65.0,70.0,71.0
+SF142,2004-5-15,female,group C,some college,free/reduced,none,59.0,62.0,64.0
+SF71,2004-5-17,female,group D,some college,free/reduced,completed,58.0,63.0,73.0
+SF530,2004-5-18,female,group C,associate's degree,standard,none,62.0,74.0,70.0
+SF493,2004-5-19,female,group C,some college,standard,none,83.0,83.0,90.0
+SF643,2004-5-19,female,group B,some high school,free/reduced,none,72.0,81.0,79.0
+SM811,2004-5-21,male,group A,some high school,standard,none,51.0,31.0,36.0
+SF638,2004-5-23,female,group D,some high school,standard,completed,80.0,92.0,88.0
+SF744,2004-5-28,female,group C,associate's degree,standard,completed,59.0,73.0,72.0
+SF340,2004-5-29,female,group D,some high school,free/reduced,completed,35.0,55.0,60.0
+SF249,2004-6-1,female,group B,high school,standard,none,65.0,64.0,62.0
+SM871,2004-6-10,male,group B,high school,standard,none,59.0,58.0,47.0
+SM869,2004-6-15,male,group E,associate's degree,free/reduced,completed,70.0,74.0,70.0
+SM298,2004-6-16,male,group E,associate's degree,standard,completed,71.0,74.0,68.0
+SF441,2004-6-19,female,group C,some college,standard,completed,67.0,81.0,79.0
+SF559,2004-6-21,female,group B,associate's degree,free/reduced,none,53.0,70.0,70.0
+SM232,2004-6-22,male,group C,associate's degree,standard,none,46.0,43.0,42.0
+SF756,2004-6-24,female,group E,associate's degree,standard,none,84.0,95.0,92.0
+SF946,2004-6-29,female,group C,associate's degree,standard,none,54.0,61.0,58.0
+SF201,2004-7-6,female,group C,associate's degree,standard,completed,67.0,84.0,86.0
+SF218,2004-7-8,female,group C,high school,free/reduced,none,34.0,42.0,39.0
+SF233,2004-7-8,female,group B,bachelor's degree,standard,none,67.0,86.0,83.0
+SM799,2004-7-9,male,group E,some college,standard,none,69.0,60.0,54.0
+SM576,2004-7-9,male,group A,associate's degree,free/reduced,completed,40.0,55.0,53.0
+SM523,2004-7-13,male,group D,bachelor's degree,standard,none,69.0,58.0,57.0
+SF2,2004-7-13,female,group C,some college,standard,completed,69.0,90.0,88.0
+SM50,2004-7-18,male,group C,high school,standard,completed,82.0,84.0,60.0
+SF759,2004-7-18,female,group D,some college,free/reduced,completed,52.0,59.0,65.0
+SF803,2004-7-21,female,group E,associate's degree,standard,none,87.0,94.0,95.0
+SM842,2004-7-24,male,group C,some high school,standard,none,64.0,58.0,51.0
+SM74,2004-8-4,male,group C,some high school,free/reduced,none,61.0,57.0,56.0
+SF257,2004-8-6,female,group C,associate's degree,free/reduced,none,64.0,73.0,68.0
+SF162,2004-8-7,female,group E,some college,free/reduced,completed,75.0,88.0,85.0
+SM66,2004-8-11,male,group B,some high school,standard,none,67.0,64.0,61.0
+SM739,2004-8-12,male,group D,associate's degree,standard,none,81.0,71.0,73.0
+SF819,2004-8-12,female,group B,high school,free/reduced,none,60.0,72.0,68.0
+SM789,2004-8-13,male,group C,associate's degree,free/reduced,none,68.0,65.0,61.0
+SM884,2004-8-14,male,group D,bachelor's degree,free/reduced,none,55.0,46.0,44.0
+SM717,2004-8-19,male,group C,associate's degree,standard,completed,73.0,78.0,72.0
+SF3,2004-8-23,female,group B,master's degree,standard,none,90.0,95.0,93.0
+SM371,2004-8-27,male,group E,some college,standard,none,84.0,77.0,71.0
+SM67,2004-9-3,male,group D,some high school,free/reduced,none,45.0,37.0,37.0
+SF784,2004-9-4,female,group C,associate's degree,standard,completed,52.0,59.0,62.0
+SM848,2004-9-5,male,group D,high school,standard,none,64.0,54.0,50.0
+SF886,2004-9-11,female,group C,associate's degree,standard,completed,62.0,76.0,80.0
+SM456,2004-9-11,male,group C,bachelor's degree,free/reduced,none,37.0,56.0,47.0
+SF774,2004-9-12,female,group C,bachelor's degree,free/reduced,none,62.0,78.0,79.0
+SM127,2004-9-13,male,group B,some high school,standard,none,72.0,68.0,67.0
+SF321,2004-9-21,female,group C,high school,free/reduced,completed,67.0,79.0,84.0
+SM563,2004-9-22,male,group C,bachelor's degree,standard,completed,96.0,90.0,92.0
+SM558,2004-9-23,male,group C,master's degree,free/reduced,none,61.0,67.0,66.0
+SM724,2004-9-26,male,group C,high school,standard,none,50.0,48.0,42.0
+SF630,2004-9-30,female,group C,some high school,standard,completed,44.0,51.0,55.0
+SF70,2004-10-4,female,group C,associate's degree,standard,none,39.0,64.0,57.0
+SM448,2004-10-6,male,group C,high school,standard,completed,86.0,81.0,80.0
+SM639,2004-10-10,male,group E,some college,standard,none,86.0,76.0,62.333333333333336
+SF938,2004-10-13,female,group E,high school,free/reduced,none,57.0,58.0,57.0
+SF103,2004-10-14,female,group D,associate's degree,standard,none,85.0,91.0,89.0
+SF664,2004-10-14,female,group C,high school,standard,none,65.0,69.0,67.0
+SF992,2004-10-18,female,group B,some high school,standard,completed,65.0,82.0,78.0
+SF320,2004-10-23,female,group D,associate's degree,free/reduced,none,56.0,65.0,63.0
+SM947,2004-10-23,male,group B,high school,standard,none,82.0,82.0,80.0
+SF959,2004-10-27,female,group D,high school,standard,none,45.0,63.0,59.0
+SF159,2004-10-27,female,group B,associate's degree,standard,completed,61.0,86.0,87.0
+SM287,2004-10-28,male,group E,associate's degree,standard,completed,100.0,82.0,88.0
+SM797,2004-11-4,male,group D,high school,standard,none,70.0,70.0,70.0
+SM52,2004-11-5,male,group E,associate's degree,free/reduced,completed,77.0,69.0,68.0
+SM23,2004-11-5,male,group D,some college,standard,none,44.0,54.0,53.0
+SF268,2004-11-6,female,group D,high school,standard,none,69.0,72.0,77.0
+SM144,2004-11-6,male,group A,high school,standard,none,57.0,43.0,47.0
+SF858,2004-11-7,female,group C,bachelor's degree,standard,none,65.0,79.0,81.0
+SM328,2004-11-12,male,group A,some college,free/reduced,none,28.0,23.0,19.0
+SF423,2004-11-17,female,group D,master's degree,free/reduced,completed,47.0,58.0,67.0
+SF659,2004-11-23,female,group D,associate's degree,free/reduced,none,43.0,60.0,58.0
+SF963,2004-11-23,female,group E,associate's degree,standard,none,100.0,100.0,100.0
+SF831,2004-11-27,female,group A,some college,free/reduced,none,61.0,60.0,57.0
+SF110,2004-11-28,female,group B,some high school,standard,none,70.0,64.0,72.0
+SM338,2004-12-2,male,group C,associate's degree,standard,none,49.0,51.0,43.0
+SM186,2004-12-4,male,group C,associate's degree,free/reduced,completed,65.0,67.0,65.0
+SF836,2004-12-5,female,group C,high school,standard,completed,60.0,64.0,74.0
+SF424,2004-12-6,female,group A,some high school,standard,completed,59.0,85.0,80.0
+SF578,2004-12-8,female,group B,high school,standard,none,81.0,91.0,89.0
+SM293,2004-12-12,male,group C,some high school,standard,completed,63.0,60.0,57.0
+SM923,2004-12-19,male,group D,high school,standard,none,72.0,66.0,66.0
+SF277,2004-12-24,female,group C,some high school,standard,completed,85.0,92.0,93.0
+SF674,2004-12-24,female,group C,associate's degree,standard,completed,65.0,84.0,84.0
+SM635,2004-12-25,male,group D,some high school,standard,none,84.0,84.0,80.0
+SM707,2004-12-25,male,group D,high school,standard,none,46.0,34.0,36.0
+SM427,2004-12-27,male,group C,bachelor's degree,standard,none,86.0,83.0,86.0
+SF10,2004-11-31,female,group B,high school,free/reduced,none,38.0,60.0,50.0
+SM138,1998-11-31,male,group E,high school,standard,none,70.0,55.0,56.0
+SF238,2002-6-31,female,group D,some high school,standard,completed,64.0,60.0,74.0
+SF253,1999-2-29,female,group B,some high school,standard,completed,60.0,70.0,70.0
+SF288,1998-2-29,female,group B,some high school,standard,none,67.0,89.0,82.0
+SF386,2001-9-31,female,group E,some college,standard,none,67.0,76.0,75.0
+SM454,2001-2-31,male,group C,some college,free/reduced,none,65.0,58.0,49.0
+SF494,1999-6-31,female,group C,bachelor's degree,standard,none,81.0,88.0,90.0
+SM507,1999-9-31,male,group A,high school,standard,none,68.0,70.0,66.0
+SM566,1998-2-31,male,group B,associate's degree,standard,none,48.0,43.0,45.0
+SF702,2001-9-31,female,group B,some high school,standard,none,57.0,67.0,72.0
+SF721,2003-9-31,female,group C,some college,free/reduced,none,62.0,72.0,70.0
+SF767,2004-2-30,female,group C,high school,standard,completed,58.0,75.0,77.0
+SM944,2000-6-31,male,group A,some high school,free/reduced,completed,61.0,62.0,61.0
+SM979,2000-6-31,male,group D,high school,standard,completed,55.0,41.0,48.0
